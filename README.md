@@ -1,1 +1,1 @@
-This project contains the code to display on a , which is an application for generation and converting unlinkable pseudonyms. It is part of the ScrambleDB setup and provides the database driver with a rest interface for unlinkable pseudonyms.
+This project contains the code to display on a 320x240 Raspberry PI LED screen current stock prices, as well as nominal and percentual variations in real time. It's coded to display no only stocks but commodities, currencies, indexes and cryptos.
